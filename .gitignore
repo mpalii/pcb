@@ -1,0 +1,17 @@
+
+*.kicad_prl
+*-info-cache
+*-backups/
+
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtg
+*.gto
+*.drl
+*.gbr
+
